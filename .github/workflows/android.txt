@@ -1,0 +1,3 @@
+title=App1
+author=Caleb
+orientation=portrait|landscape
